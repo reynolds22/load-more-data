@@ -1,5 +1,5 @@
 import './App.css';
-import LoadMoreData from "./component/index";
+import LoadMoreData from "./component";
 
 function App() {
   return <LoadMoreData/>;
